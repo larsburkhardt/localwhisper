@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+faster-whisper
+python-multipart
+markdown
+psutil
+# Optional (Diarisation)
+# pyannote.audio
+torch
